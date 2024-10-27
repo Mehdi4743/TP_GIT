@@ -4,3 +4,4 @@ print("Lewagolski")
 Age = 37 
 print("Pedri >>> Belingham")
 print("FC Barcelona 4/1 FC Bayern Munich ")
+goals = 4 
